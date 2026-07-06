@@ -44,4 +44,4 @@ signal and a historical trading dataset as the performance signal.
 Python, pandas, NumPy, Matplotlib, Seaborn
 
 ## Author
-Tisha
+Suhani
