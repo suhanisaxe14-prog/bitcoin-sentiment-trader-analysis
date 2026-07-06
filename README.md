@@ -1,6 +1,5 @@
 # Bitcoin Trader Behavior vs. Market Sentiment Analysis
 
-**Take-home task — Primetrade.ai Data Science Internship**
 
 ## Overview
 This analysis explores how trader performance and behavior shift across different
